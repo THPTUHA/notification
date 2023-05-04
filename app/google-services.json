@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80186217748",
+    "project_id": "nhung-01",
+    "storage_bucket": "nhung-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80186217748:android:3ca859d0ee567d61cb1e01",
+        "android_client_info": {
+          "package_name": "com.badao.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80186217748-aj1imjjdqjetjssdfrcjjt0imu13v2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFxMCNCnv-LWdpe-gUNf92bbOT1H9Hmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80186217748-aj1imjjdqjetjssdfrcjjt0imu13v2fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
